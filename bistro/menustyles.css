@@ -12,7 +12,7 @@ body {
     background-position: center 100px;
     background-attachment: fixed;*/
   
-    background: #d2dc9d url(images/blackgoose.png) no-repeat center 100px fixed;
+    background: #d2dc9d url(Images/blackgoose.png) no-repeat center 100px fixed;
   
   
     
@@ -27,9 +27,9 @@ body {
     background-position: center top;*/
   
     background:
-    url(images/purpledot.png) left top repeat-y,
-    url(images/purpledot.png) right top repeat-y,
-    url(images/gooseshadow.png) 90% bottom no-repeat;
+    url(Images/purpledot.png) left top repeat-y,
+    url(Images/purpledot.png) right top repeat-y,
+    url(Images/gooseshadow.png) 90% bottom no-repeat;
   
     background-color: rgba(255, 255, 255, 0.5);
   }
