@@ -1,0 +1,54 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+      body{
+          background-image: url(Images/seamless-tomato.jpg);
+          display: flex;
+          flex-direction: column;
+          padding: 5px 5px 5px 5px ;
+  
+          max-width: 100vh;
+          min-height: 100vh;
+  
+      }
+      header{
+          align-content: center;
+          display:flex;
+          align-items: center;
+          justify-content: center;
+  
+          font-size: 40px;
+          font-family: 'Courier New', Courier, monospace;
+          background-color: antiquewhite;
+      }
+      nav{
+          display:flex;
+          align-items: center;
+          align-content: center;
+          justify-content: center;
+      }
+      #Cans{
+          width: 120px;
+          height: 120px;
+      }
+      #Nav{
+          width: 140px;
+          height: 100px;
+      }
+      div{
+          
+          background-color: bisque;
+          margin: 10%;
+          padding: 10%;
+      }
+      h2{
+          font-family: 'Trebuchet MS';
+          font-size: 50px;
+      }
+      p{
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: 20px;
+  
+      }
